@@ -4,7 +4,7 @@ CNC Steuerung für Koordinatentisch mit NEMA 17 Motoren.
 
 ## Features
 
-Punkte anfahren
+Punkte anfahren \n
 Zu letztem Punkt fahren
 Oszillieren
 Ausschnitte fahren
